@@ -1,1 +1,2 @@
 tg_token = "5840776190:AAEQS6Do9Vvx_ehuGNIK2MAxUiTqAy08XBw"
+openai_token = "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"
